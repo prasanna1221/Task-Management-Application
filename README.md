@@ -19,8 +19,8 @@ Run the Program:
    python Task_management_app.py
    ```
 
-Features
-Main Menu
+# Features
+## Main Menu
 The main menu provides the following options:
 # Task Management Program
 -Add a task
