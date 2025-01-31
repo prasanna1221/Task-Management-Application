@@ -23,6 +23,7 @@ Run the Program:
 ## Main Menu
 The main menu provides the following options:
 **-Add a task**
+
 -View all tasks
 -View pending tasks
 -View completed tasks
