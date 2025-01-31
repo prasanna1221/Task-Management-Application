@@ -16,7 +16,7 @@ This is a simple task management program that allows users to add, update, delet
 
 Run the Program:
    ```sh
-   python tm6.py
+   python Task_management_app.py
    ```
 
 Features
