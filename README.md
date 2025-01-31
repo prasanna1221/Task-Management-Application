@@ -10,7 +10,7 @@ This is a simple task management program that allows users to add, update, delet
 
 2. **Clone the Repository:**
    ```sh
-   git clone [<repository-url>](https://github.com/prasanna1221/Task-Management-Application.git)
+   git clone (https://github.com/prasanna1221/Task-Management-Application.git)
    cd Task-Management-Application
    ```
 
