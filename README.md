@@ -12,11 +12,12 @@ This is a simple task management program that allows users to add, update, delet
    ```sh
    git clone <repository-url>
    cd <repository-directory>
+   ```
 
 Run the Program:
-
-python tm6.py
-
+   ```sh
+   python tm6.py
+   ```
 
 Features
 Main Menu
