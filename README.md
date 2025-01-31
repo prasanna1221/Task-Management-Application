@@ -19,8 +19,8 @@ Run the Program:
    python Task_management_app.py
    ```
 
-#Features
-##Main Menu
+Features
+Main Menu
 The main menu provides the following options:
 
 -Add a task
@@ -33,13 +33,13 @@ The main menu provides the following options:
 -Sort tasks
 -View tasks due soon (within 24 hours)
 -Exit
-##Additional Features
+Additional Features
 -Date Format: The program uses the DD-MM-YYYY date format for input and display.
 -Date Validation: The program validates the entered date to ensure it is a valid date and not in the past.
 -Due Date Reminders: The program notifies users about tasks that are due soon (within 24 hours) when the program starts.
 -Sorting Tasks: Tasks can be sorted by deadline or status. Tasks with no deadline are considered the least priority and appear at the end of the list.
 -Default Deadline: If no deadline is provided while adding or updating a task, a far future date (31-12-2999) is assigned to ensure these tasks appear at the end of the list when sorting by deadline.
-##Assumptions and Design Decisions
+Assumptions and Design Decisions
 -Date Format: The program assumes that the user will enter dates in the DD-MM-YYYY format.
 -Default Deadline: Tasks with no deadline are assigned a far future date (31-12-2999) to ensure they appear at the end of the list when sorting by deadline.
 -Date Validation: The program validates the entered date to ensure it is a valid date and not in the past. This includes checking for valid days in a month, leap years, etc.
